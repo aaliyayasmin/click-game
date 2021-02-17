@@ -1,0 +1,19 @@
+{
+  "name": "click-game",
+  "version": "1.0.0",
+  "description": "this project will show you number of click",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaliyayasmin/click-game.git"
+  },
+  "author": "aaliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaliyayasmin/click-game/issues"
+  },
+  "homepage": "https://github.com/aaliyayasmin/click-game#readme"
+}
